@@ -1,0 +1,11 @@
+#header {
+  background: url(BG.jpg) center;
+  background-size: cover;
+  color: white;
+
+}
+
+hr {
+  width: 500px;
+  border-top: 1px solid white;
+}
